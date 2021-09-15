@@ -4,7 +4,16 @@
 
 Being a remote-first company, we need a whiteboard that we can use from anywhere. We use a tool called Miro for this,
 
-Sign up for a [Miro](https://miro.com/) account using your `@developersinstitute.co.nz` Google Account, then follow the link to [join our organisation](https://miro.com/welcome/V2ttazhQWTY1Y0lUeFFvU3pHWUo5RVBQZ1F3eFhMRDBhanVmd1FOOHlQTThsR3hyNm5jSXdFTTk0dE80eDVrSnwzMDc0NDU3MzQ4NjgyODkwOTA0).
+Sign up for a [Miro](https://miro.com/) account with Miro's [free education plan](https://miro.com/education-whiteboard/). [Sign up here](https://miro.com/contact/education/) using your `@developersinstitute.co.nz` Google Account.
+- Select 'student' as your role, and then fill in the rest of your details.
+- For 'Where do you study/work' select `Online education`
+- For 'Educational Institution' type `Developers Institute`
+- For 'What will you use Miro for' type `For planning software projects. For example drawing mockups, creating flow diagrams, participating in group retrospectives`
+- For 'Employment status' load a screenshot of the first page of the official 'confirmation of enrolment' pdf document you received after completing your enrolment at Developers Institue. It should look something like this  
+![proof of enrolment example](.././../img/proof-of-enrolment-example.png)
+- For 'Accreditation confirmation' load this image file ![Developers Institute Accreditation](../../img/miro-education-plan-screenshot.png)
+
+It may take a day or so for Miro to process your account signup.
 
 ## Frontend Masters
 
