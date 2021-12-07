@@ -25,4 +25,4 @@ Click on that command, if everything is working correctly you should see the fol
 
 #### Why do you have to put the . after the command 'code' ? 
 
-you have to include the `.` after the command code so that it opens folders and files relative to where you are in your directory. If you just type the word `code` on its own it will open a blank VS Code window in your root directory instead.
+you have to include the `.` after the command `code` so that it opens folders and files relative to where you are in your directory. If you just type the word `code` on its own it will open a blank VS Code window instead.
