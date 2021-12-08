@@ -10,26 +10,6 @@ Git is an industry-standard tool for tracking changes to files, and allowing dev
 
 If you are on a mac, watch [Installing applications on your Mac](https://www.loom.com/share/1325f420d7aa4871ac5fba2e721b4422?from_recorder=1) if you need help installing this software.
 
-### Web-browser
-
-Install a modern web browser, preferably [Google Chrome](https://www.google.com/chrome/index.html), [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/), or [Brave Browser](https://brave.com/).
-
-We like to use modern web browsers because they have excellent developer tools built in, which make your life as a developer much easier.
-
-- Set your new browser as the default browser for your computer: [Google Chrome](https://support.google.com/chrome/answer/95417?co=GENIE.Platform%3DDesktop&hl=en), [Mozilla Firefox](https://support.mozilla.org/en-US/kb/make-firefox-your-default-browser), or [Brave Browser](https://support.brave.com/hc/en-us/articles/360020406572-How-do-I-set-Brave-to-be-my-Default-Browser-)
-
-### Communication
-
-#### Slack
-
-Slack is our main communication hub, where you and your class will talk with each other using text and video chat. You have access to all the instructions and other students, and a lot of chat rooms where different content is shared.
-
-Install the Slack desktop app. Using the desktop app allows you to make video calls to instructors and other students, which can be handy when you want a 1:1.
-
-- [Slack](https://slack.com/intl/en-nz/) messaging app. Ensure you install the desktop app as this will enable you the ability to make video calls to fellow students and instructors.
-- Watch [Getting Started with Slack at Developers Institute](https://www.loom.com/share/a3b3687160364ce8aa9d19e452826736?from_recorder=1)
-- Watch [Making calls in Slack](https://www.loom.com/share/67c6ec6d949641e9b84c106493616c76?from_recorder=1)
-
 ### Programming tools
 
 ### Node
