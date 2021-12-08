@@ -2,18 +2,20 @@
 
 ## Miro
 
-Being a remote-first company, we need a whiteboard that we can use from anywhere. We use a tool called Miro for this,
+Being a remote-first company, we need to be able to successfully communicate and collaborate together from anywhere. 
 
-Sign up for a [Miro](https://miro.com/) account with Miro's [free education plan](https://miro.com/education-whiteboard/). [Sign up here](https://miro.com/contact/education/) using your `@developersinstitute.co.nz` Google Account.
-- Select 'student' as your role, and then fill in the rest of your details.
-- For 'Where do you study/work' select `Online education`
-- For 'Educational Institution' type `Developers Institute`
-- For 'What will you use Miro for' type `For planning software projects. For example drawing mockups, creating flow diagrams, participating in group retrospectives`
-- For 'Employment status' load a screenshot of the first page of the official 'confirmation of enrolment' pdf document you received after completing your enrolment at Developers Institue. It should look something like this  
-![proof of enrolment example](.././../img/proof-of-enrolment-example.png)
-- For 'Accreditation confirmation' load this image file ![Developers Institute Accreditation](../../img/miro-education-plan-screenshot.png)
+One tool we use for this is a digital 'whiteboard' called [Miro](https://miro.com/) (pronounced like “Hero”)
+Miro makes it easy to brainstorm and collaborate all in real time. Everyone can create notes and designs, move things around, utelise post-its, draw and use all diffrent kinds of pre-built templates.
 
-It may take a day or so for Miro to process your account signup.
+Some common uses of Miro at Developers Institute include:
+
+- Designing Websites
+- Collecting everyones ideas in one place
+- Wireframing with your team
+- Demonstating concepts in meetings
+- Retros (A Retrospective), where we reflect as a team how we are working and learning
+
+We suggest you sign up for a free account to gain access to any bonus features, but you can also join Miro collaborations as a guest.
 
 ## Frontend Masters
 
