@@ -7,7 +7,7 @@ Communicating and collaborating with others will be at the forefront of your eve
 The Diploma courses here are purposefully modeled to run like a workplace: 
 - This means your instructors are your ‘Tech Leads’
 - You the student, are a ‘Learner’
-- Your Cohort are your work colleagues
+- Your Cohort should be treated as your work colleagues
 - Any group you work with is your software team
 - Our classes are called ‘Meetings’
 - The processes, terminology, and tools we use for communicating, are the same you will find in most Tech workplaces.
@@ -20,9 +20,13 @@ We do this so your communication practices will be industry-ready, and you will 
 
 ### Slack
 
-Slack is a real-time messaging tool to help you stay connected to your team (your cohort) and all the support staff at Developers Institute.
+[Slack](https://slack.com/intl/en-nz/) messaging app. Slack is our main communication hub. It's a real-time messaging tool where you use text and video chat to stay connected to your team (your cohort) and all the support staff at Developers Institute.
 
 Use this to ask programming questions and see what others are sharing. This is the most constantly utelised environment where you will absorb our culture and become a fellow developer. 
+
+- Install the Slack desktop App [here](https://slack.com/help/articles/207677868-Download-Slack-for-Mac). Using the desktop app allows you to make video calls to teaching staff and other learners.
+- Watch [Getting Started with Slack at Developers Institute](https://www.loom.com/share/a3b3687160364ce8aa9d19e452826736?from_recorder=1)
+- Watch [Making calls in Slack](https://www.loom.com/share/67c6ec6d949641e9b84c106493616c76?from_recorder=1)
 
 Good Slack practices include: 
 
