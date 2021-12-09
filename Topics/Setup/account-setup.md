@@ -32,3 +32,19 @@ We share a lot of videos in Loom. Create a Loom account so you can leave comment
 
 - [Loom](https://www.loom.com) - create an account on Loom with your Developers Institute email address. Ensure you are logged in when you are watching videos.
 
+## freeCodeCamp
+
+We will be using freeCodeCamp to practice and learn some of our web development in the first term
+
+- Visit freeCodeCamp ( https://www.freecodecamp.org/ ) and sign up for an account by clicking the big yellow Get Started button. 
+- Create an account and sign-in
+
+Once you are signed-in, update your profile settings so the instructors can see your progress. You will need to switch on the following settings from Private to Public:
+
+- My profile
+- My points
+- My heat map
+- My certification
+- My time line
+
+Update the Username to something more memorable than the UUID ( https://en.wikipedia.org/wiki/Universally_unique_identifier ) placeholder.
