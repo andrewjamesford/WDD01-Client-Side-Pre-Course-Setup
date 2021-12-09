@@ -22,7 +22,7 @@ Visit the [Node website](https://nodejs.org/en/). Download and install the LTS v
 
 Visual Studio Code is a text editor with developer super powers. We use it to write our code, and it provides a lot of helpful features that make our lives much easier as a developer. You will be writing all of your code into Visual Studio Code (VS Code).
 
-We prefer you to use VS Code as your code editor, even if you are familiar with other tools.
+You need to VS Code as your code editor at Developers Institute, even if you are familiar with other tools.
 
 - Download and install [Visual Studio Code](https://code.visualstudio.com/), the open-source code editor.
 - Make sure it's installed to your Applications folder
@@ -30,7 +30,3 @@ We prefer you to use VS Code as your code editor, even if you are familiar with 
   - [ ] [Live Server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
   - [ ] [Prettier extension](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
   - [ ] [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack)
-
-### Design
-
-- [Adobe XD](https://www.adobe.com/products/xd.html), free software to create designs for websites and mobile apps.
