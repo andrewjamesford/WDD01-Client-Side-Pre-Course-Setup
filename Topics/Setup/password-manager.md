@@ -17,4 +17,3 @@ If your email is compromised, you need to fix that by:
    - Us instructors, use [KeePassXC](https://keepassxc.org/) and [1Password](https://1password.com/) and other staff use [Dashlane](https://www.dashlane.com/). 
    - All three options are plenty secure. KeePassXC is the most secure option, but unfortunately it's not hosted online (passwords saved to your disk, encrypted with your master password)
    - LastPass and Dashlane store passwords on their online server, encrypted with your master password. This allows them to be easily used between multiple computers.
-   - You can get a free 6 month subscription to Dashlane as part of your [GitHub Student Developer Pack](https://education.github.com/pack)
