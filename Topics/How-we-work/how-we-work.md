@@ -54,7 +54,7 @@ Your google calendar will play a vital role in organising your day and helping o
 - Always check the meeting description so you know what to prepare. Most class meetings will have a listed agenda that outlines the expected learning to have been completed for that meeting. 
 - Always click whether you are attending a meeting or not.
 
-Integration of your calendar with Slack is highly recommended: Google Calendar for Slack
+Integration of your calendar with Slack is highly recommended: [Google Calendar for Slackk](https://slack.com/app-pages/google-calendar)
 
 ### Google Meet
 
