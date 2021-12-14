@@ -2,7 +2,7 @@
 
 Watch [Introduction to VS Code, the command line, and GitHub](https://www.loom.com/share/9c662808140e4b8893f7e0424847f6b1) for an overview of some of the tools we will be installing to complete our web development
 
-### Version Control
+## Version Control
 
 Git is an industry-standard tool for tracking changes to files, and allowing developers to collaborate on code together. It's like a shared Google Doc for code. We will be using it every day.
 
@@ -10,7 +10,7 @@ Git is an industry-standard tool for tracking changes to files, and allowing dev
 
 If you are on a mac, watch [Installing applications on your Mac](https://www.loom.com/share/1325f420d7aa4871ac5fba2e721b4422?from_recorder=1) if you need help installing this software.
 
-### Programming tools
+## Programming tools
 
 ### Node
 
@@ -18,7 +18,12 @@ If you are on a mac, watch [Installing applications on your Mac](https://www.loo
 
 Visit the [Node website](https://nodejs.org/en/). Download and install the LTS version of Node onto your operating system.
 
-### Visual Studio Code
+After installing node to your operation system, open your terminal and type: 'node -v', it should display the version of Node you have installed. Note: your version may be different to the example in the screenshot
+
+#### Example:
+<img src="../../img/node-example.png" width="300" height="160">
+
+## Visual Studio Code
 
 Visual Studio Code is a text editor with developer super powers. We use it to write our code, and it provides a lot of helpful features that make our lives much easier as a developer. You will be writing all of your code into Visual Studio Code (VS Code).
 
