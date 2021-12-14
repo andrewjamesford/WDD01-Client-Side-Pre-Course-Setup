@@ -1,8 +1,8 @@
 # Mac setup Continued
 
-## How to install software
+## How to install software Recap
 
-**Important:** Watch [Installing applications on your Mac](https://www.loom.com/share/1325f420d7aa4871ac5fba2e721b4422?from_recorder=1) before completing the following. This will help you learn how mac's work when installing software.
+**Important:** Rewatch [Installing applications on your Mac](https://www.loom.com/share/1325f420d7aa4871ac5fba2e721b4422?from_recorder=1) before completing the following. This will help you reinforce how mac's work when installing software.
 
 ---
 
