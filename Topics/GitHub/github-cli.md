@@ -24,6 +24,10 @@ Follow the prompts and provide the following answers to the prompts:
 
 You can also watch the [tutorial video for the GitHub CLI](https://www.loom.com/share/96e4794d3ec6475285d23781bcdeef3e)
 
+Once you've completed the steps above, open your terminal / command-line and type `ssh -T git@github.com` 
+
+you should see a response that says something like: "Hi [YOUR GITHUB USERNAME]! You've successfully authenticated, but GitHub does not provide shell access."
+
 ## Set VS Code as your default Git editor
 
 Sometimes when using git you need to tell it what to do in a code editor. We need to configure git to use VS Code as it's code editor. 
