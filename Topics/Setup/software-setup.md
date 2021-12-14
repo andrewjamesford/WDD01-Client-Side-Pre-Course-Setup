@@ -18,7 +18,7 @@ If you are on a mac, watch [Installing applications on your Mac](https://www.loo
 
 Visit the [Node website](https://nodejs.org/en/). Download and install the LTS version of Node onto your operating system.
 
-After installing node to your operation system, open your terminal and type: 'node -v', it should display the version of Node you have installed. Note: your version may be different to the example in the screenshot
+After installing node to your operation system, open your terminal and type: `node -v`, it should display the version of Node you have installed. Note: your version may be different to the example in the screenshot
 
 #### Example:
 <img src="../../img/node-example.png" width="300" height="160">
