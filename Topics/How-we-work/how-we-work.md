@@ -25,8 +25,10 @@ We do this so your communication practices will be industry-ready, and you will 
 Use this to ask programming questions and see what others are sharing. This is the most constantly utelised environment where you will absorb our culture and become a fellow developer. 
 
 - Install the Slack desktop App [here](https://slack.com/help/articles/207677868-Download-Slack-for-Mac). Using the desktop app allows you to make video calls to teaching staff and other learners.
+- Watch [Slack Tips](https://www.loom.com/share/14b8f63fb7a34ddaa49e3d4e7d1a42b2)
 - Watch [Getting Started with Slack at Developers Institute](https://www.loom.com/share/a3b3687160364ce8aa9d19e452826736?from_recorder=1)
 - Watch [Making calls in Slack](https://www.loom.com/share/67c6ec6d949641e9b84c106493616c76?from_recorder=1)
+
 
 Good Slack practices include: 
 
@@ -35,6 +37,7 @@ Good Slack practices include:
 - Set yourself as ‘active’ at the start of your day and ‘away’ at the end of it. This indicates to others that you are online
 - Indicate that you have read a post with an emoji response
 
+**Don't forget if you ever need help, type @channel in your cohort slack channel to notify everyone in that channel or type @instructors if you specifically want to notify all Instructors about something.**
 
 ### Email
 
