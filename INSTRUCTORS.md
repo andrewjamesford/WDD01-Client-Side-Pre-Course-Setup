@@ -70,6 +70,16 @@ This runbook is a living document, and you can modify and adapt it as you refine
 
 A lot needs to happen before learners join us for their first day. Refer to the [Preparation for Orientation Week - Process](https://github.com/Developers-Institute-Internal/handbook-md/wiki/O-Week-Process) in the handbook to see tasks that need to be done. In particular, search for tasks that are assigned to `Tech Lead and TA`
 
+Other to do items:
+- Before the first day: Say hello in Slack - add cohort slack channel link
+- Optional: The initial welcome video
+- Update first topic heading start date
+- Update Day 1: 'Welcome to the Developers Institute' the instructions in the bolded text also use the start date: “Please ensure you have completed and handed in every instruction listed in the 'before MONTH DATE' section, before beginning Day 1 content. “
+- Update Day 3 ‘Start Talent Engine’: Link to Talent Engine classroom
+- Update Day 3 ‘Start Talent Engine’: Talent Engine instructions and content titles, need to be sure they match the current content
+- Update Day 4: ‘Join the Client-Side Google Classroom’ the Link to the Clientside classroom
+- Check all links (especially quiz links as they have an expiry date)
+
 ---
 
 # Course delivery
