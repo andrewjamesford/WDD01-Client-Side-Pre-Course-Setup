@@ -22,7 +22,7 @@ We do this so your communication practices will be industry-ready, and you will 
 
 [Slack](https://slack.com/intl/en-nz/) messaging app. Slack is our main communication hub. It's a real-time messaging tool where you use text and video chat to stay connected to your team (your cohort) and all the support staff at Developers Institute.
 
-Use this to ask programming questions and see what others are sharing. This is the most constantly utelised environment where you will absorb our culture and become a fellow developer. 
+Use this to ask programming questions and see what others are sharing. This is the most constantly utilised environment where you will absorb our culture and become a fellow developer. 
 
 - Install the Slack desktop App [here](https://slack.com/help/articles/207677868-Download-Slack-for-Mac). Using the desktop app allows you to make video calls to teaching staff and other learners.
 - Watch [Slack Tips](https://www.loom.com/share/14b8f63fb7a34ddaa49e3d4e7d1a42b2)
@@ -36,6 +36,9 @@ Good Slack practices include:
 - Stay up to date with all communication on your cohort channel
 - Set yourself as ‘active’ at the start of your day and ‘away’ at the end of it. This indicates to others that you are online
 - Indicate that you have read a post with an emoji response
+
+**Take Note**
+Treat Slack for Developers Institute like you would if in a workplace. Show respect, kindness and empathy. Please remember that all communication is monitored.
 
 **Don't forget if you ever need help, type @channel in your cohort slack channel to notify everyone in that channel or type @instructors if you specifically want to notify all Instructors about something.**
 
