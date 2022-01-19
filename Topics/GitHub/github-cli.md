@@ -26,7 +26,10 @@ You can also watch the [tutorial video for the GitHub CLI](https://www.loom.com/
 
 Once you've completed the steps above, open your terminal / command-line and type `ssh -T git@github.com` 
 
-you should see a response that says something like: "Hi [YOUR GITHUB USERNAME]! You've successfully authenticated, but GitHub does not provide shell access."
+- You may or may not have a message that comes up at this point saying `The authenticity of host github.com (##) can't be established. Are you sure you want to continue connecting (yes/no/fingerprint)?`  If this happens, just type `yes`.
+
+
+**You should then see a response that says something like: "Hi [YOUR GITHUB USERNAME]! You've successfully authenticated, but GitHub does not provide shell access."**
 
 ## Set VS Code as your default Git editor
 
