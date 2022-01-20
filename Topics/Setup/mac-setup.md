@@ -14,6 +14,8 @@ Homebrew is a command-line tool that lets you install software. It's useful for 
 
 Watch the tutorial for [Installing Homebrew](https://www.loom.com/share/6d675407abf54da5b4cf93d257fcc1ab?from_recorder=1) to install [Homebrew](https://brew.sh).
 
+There may be further instructions on the terminal called "Next Steps", please follow them.
+
 **Important:** If after installing Homebrew you start seeing an error on your command line:
 
 ```shell
